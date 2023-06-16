@@ -8,10 +8,6 @@ Artificial intelligence (AI), known by some as the industrial revolution (IR) 4.
 
 - Unemployment is the next because many works will be replaced by machinery. Today, many automobile assembly lines have been filled with machineries and robots, forcing traditional workers to lose their jobs. Even in supermarket, the store clerks will not be needed anymore as the digital device can take over human labor
 
-- Unemployment is the next because many works will be replaced by machinery. Today, many automobile assembly lines have been filled with machineries and robots, forcing traditional workers to lose their jobs. Even in supermarket, the store clerks will not be needed anymore as the digital device can take over human labor
-
-- New issues surface not only in a social sense but also in AI itself as the AI being trained and learned how to operate the given task can eventually take off to the stage that human has no control, thus creating un-anticipated problems and consequences. It refers to AI's capacity after being loaded with all needed algorithm may automatically function on its own course ignoring the command given by the human controller
-
 - The human masters who create AI may invent something that is racial bias or egocentrically oriented to harm certain people or things. For instance, the United Nations has voted to limit the spread of nucleus power in fear of its indiscriminative use to destroying humankind or targeting on certain races or region to achieve the goal of domination. AI is possible to target certain race or some programmed objects to accomplish the command of destruction by the programmers, thus creating world disaster.
 
 ### Positive impact
