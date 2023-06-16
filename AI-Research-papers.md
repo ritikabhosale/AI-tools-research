@@ -17,3 +17,4 @@ https://bit.ai/templates/research-paper-template
 
 https://www.topbots.com/ai-machine-learning-research-papers-2020/
 
+https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/
